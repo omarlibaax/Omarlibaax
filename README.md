@@ -53,6 +53,6 @@ I love transforming ideas into **compelling digital experiences** through creati
 🌐 Connect with me on:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
 [![Behance](https://img.shields.io/badge/Behance-0057ff?style=flat&logo=behance)](https://behance.net)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/OMARINHO)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/omarlibaax)  
 
 ---
