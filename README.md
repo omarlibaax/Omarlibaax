@@ -1,7 +1,7 @@
 # 👋 Hi, I'm OMARINHO – Creative Digital Professional  
 
 ### 🌟 About Me  
-I'm **Omar Abdinur Ahmed**, a passionate **Computer Applications student** specializing in **Graphic Design, Web Development, and Digital Media**.  
+I'm **Omar Abdinur Ahmed**, a passionate **Computer Applications student** specializing in **Graphic Design, Web Development**.  
 I love transforming ideas into **compelling digital experiences** through creativity, code, and design.  
 
 ✨ *“Code is my canvas, creativity is my tool.”*  
