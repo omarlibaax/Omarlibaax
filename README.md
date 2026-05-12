@@ -1,4 +1,4 @@
-# 👋 Hi, I'm OMARINHO – Creative Digital Professional  
+# 👋 Hi, I'm OMARINHO 
 
 ### 🌟 About Me  
 I'm **Omar Abdinur Ahmed**, a passionate **Computer Applications student** specializing in **Web Development**.  
